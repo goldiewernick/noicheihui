@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimahxieyo.digitalcounterculture.com/sitemap.xml
